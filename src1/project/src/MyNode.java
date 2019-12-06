@@ -9,6 +9,7 @@ package tree;
 public class MyNode {
   private MyNode father;
   private int test;
+  private int b1;
   private MyNode left;
   private MyNode right;
   private int value;
